@@ -29,15 +29,31 @@ AMPについての資料
 * モバイル端末のウェブページを高速表示するための仕組み
 * GoogleとTwitterで共同開発
 
-### AMPの仕組み(5) 1m
+### AMPのメリット(6) 15s
 
-* AMP HTML
-* AMP JS
-* AMP Cache
+とにかく早い。一瞬で表示される。
+サイトの離脱率が低下する。
+
+### AMPのメリット(7) 15s
+
+Googleの検索画面にカルーセル表示される。
+AMPのマークが表示される。
+
+### AMPのデメリット(8) 15s
+
+JavaScriptが使えない。
+AMPの専用のコンポーネントがいろいろ用意されている。
+
+### AMPのデメリット(9) 15s
+
+使えるHTMLのタグに制約がある。
+
+* `<img>`タグは使えない。代わりに`<amp-img>`タグを使う
+* 外部cssは読み込めない。代わりに`<style amp-custom>`タグで囲む
 
 ## AMPの活用事例
 
-### AMPと相性のいいプラットフォーム(6) 1m
+### AMPと相性のいいプラットフォーム(10) 30s
 
 (いくつか事例をあげる)
 
@@ -45,20 +61,28 @@ AMPについての資料
 * ブログ
 * ECサイト
 
-### 具体的な事例
+### 具体的な事例(11) 30s
 
 * 朝日新聞
+* CNN
+* JIJI.COM
+* LivedoorNEWS
+* 毎日新聞
+* 産経ニュース
+* TechCrunch Japan
+* GigaZine
+* CNET Japan
 
 ## AMPのJekyllテーマの紹介
 
-### AMPのJekyllテーマの紹介(7) 30s
+### AMPのJekyllテーマの紹介(12) 30s
 
 * aminima
 * ampstart-blog-post
 
 ## AMPのドキュメントの紹介
 
-### AMPについて学ぶために(8) 30s
+### AMPについて学ぶために(13) 30s
 
 * [ampproject.org](https://www.ampproject.org/)
 * [ampbyexample.com](https://ampbyexample.com/)
